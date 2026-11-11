@@ -1,0 +1,42 @@
+APPLE INC. -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+The Company's business, reputation, results of operations and financial
+condition could be materially adversely affected by a number of factors,
+including the following:
+
+Macroeconomic and Industry Risks
+- The Company is subject to global and regional economic and political
+  conditions, including inflation, recessions, currency fluctuations, and the
+  effects of trade disputes.
+- The Company faces substantial competition. The markets for the Company's
+  products and services are highly competitive and the Company is confronted
+  by aggressive competition in all areas of its business.
+
+Supply Chain and Operational Risks
+- The Company relies on a small number of outsourcing partners for
+  manufacturing of many of its products, including key partners located in
+  the Asia-Pacific region. A disruption in the operations of any of these
+  partners, including those caused by semiconductor shortages, public health
+  issues, geopolitical tension, or natural disasters, could materially
+  adversely affect the Company.
+- The Company's supply chain has experienced periodic constraints in
+  semiconductor and other component supply that have, at times, affected
+  product availability and gross margin.
+
+Legal and Regulatory Compliance
+- The Company is subject to laws and regulations worldwide, including
+  consumer-protection, privacy, data-protection, antitrust, and tax laws,
+  any change to which could materially adversely affect the Company.
+
+Foreign Exchange Risk
+- A significant portion of the Company's net sales is generated outside the
+  United States. Weakness in foreign currencies relative to the U.S. dollar
+  adversely affects the U.S. dollar value of the Company's foreign-currency
+  net sales and earnings.
+
+Capital Return Program
+- The Company has an active share repurchase program and pays a quarterly
+  dividend. Future buybacks and dividend payments depend on cash generation
+  and capital allocation decisions by the Board.

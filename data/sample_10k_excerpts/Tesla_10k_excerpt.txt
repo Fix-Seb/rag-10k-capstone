@@ -1,0 +1,34 @@
+TESLA, INC. -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+Manufacturing and Supply Chain
+We have experienced significant supply chain disruptions in recent years.
+Semiconductor shortages have constrained our ability to produce vehicles at
+the volume we would otherwise have targeted. We continue to depend on a
+limited number of suppliers, including for battery cells and critical
+electronic components. Disruption in supplies, including those arising from
+geopolitical tension or natural disasters, could materially adversely affect
+our business.
+
+Battery and Raw Materials
+The availability and price of key minerals -- including lithium, nickel and
+cobalt -- has been volatile. Our long-term cost roadmap depends on continued
+improvements in cell chemistry, sourcing, and recycling. Tariffs and export
+controls on critical minerals could further increase costs.
+
+Product Liability and Autopilot
+Our advanced driver-assistance and Full Self-Driving features have been the
+subject of regulatory investigations and product-liability litigation. While
+we believe our systems improve safety on average, individual incidents may
+result in significant claims and reputational harm.
+
+Competition
+Established automakers and new entrants -- particularly in China -- have
+introduced competing electric vehicles, putting pressure on pricing and
+margins.
+
+Key-Personnel and Concentration Risk
+Our success depends on the continued service of our Chief Executive Officer
+and other key personnel. The loss of any such persons could materially
+adversely affect our business.

@@ -1,0 +1,29 @@
+[project]
+name = "rag-10k-capstone"
+version = "1.0.0"
+description = "Hybrid RAG (BM25 + dense + cross-encoder reranking) with citations and a refusal guardrail over 10-K risk-factor excerpts"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    # retrieval
+    "chromadb>=0.5",
+    "sentence-transformers>=3.0,<4.0",
+    "transformers>=4.43,<5.0",
+    "torch>=2.3,<3.0",
+    "rank-bm25>=0.2.2",
+    "langchain-text-splitters>=0.2",
+    # LLM backends (Ollama locally, Groq or any OpenAI-compatible server as fallback)
+    "openai>=1.40",
+    "ollama>=0.3",
+    "python-dotenv>=1.0",
+    "requests>=2.32",
+    # running the notebook
+    "ipykernel>=6.29",
+    "nbconvert>=7.16",
+]
+
+[dependency-groups]
+dev = ["jupyterlab>=4.2"]
+
+[tool.uv]
+package = false

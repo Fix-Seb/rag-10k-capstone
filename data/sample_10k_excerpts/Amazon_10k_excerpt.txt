@@ -1,0 +1,33 @@
+AMAZON.COM, INC. -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+Intense Competition
+The online and physical retail businesses, as well as the cloud computing
+business, are highly competitive. We face competition from physical-world
+retailers, publishers, vendors, distributors, manufacturers, and producers
+of our products, as well as from other online and multichannel retailers and
+marketplaces. We also face competition in the cloud business from major
+technology companies including Microsoft Azure and Google Cloud.
+
+Macroeconomic Conditions and Consumer Spending
+Inflation, rising interest rates, and reductions in real disposable income
+have affected consumer purchasing patterns, including a shift to lower-
+priced goods and a reduction in discretionary spending.
+
+International Operations and Foreign Exchange
+We have rapidly expanded our international operations. Our international
+businesses are subject to risks not typically present in the United States,
+including different consumer preferences, regulatory regimes, tax systems,
+and foreign-exchange volatility.
+
+Fulfillment, Logistics, and Capacity
+Operating a large fulfillment network requires accurate demand forecasting.
+Over-capacity raises fixed costs; under-capacity disappoints customers and
+sellers. The COVID-era and post-pandemic adjustments have made forecasting
+significantly harder.
+
+Cybersecurity and Privacy
+We collect a vast amount of personal information from customers, sellers,
+developers, and employees. Security incidents, fraud or privacy violations
+could result in regulatory penalties and harm to our reputation.

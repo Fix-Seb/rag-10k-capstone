@@ -1,0 +1,32 @@
+JPMORGAN CHASE & CO. -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+Cybersecurity
+The Firm relies heavily on its operational and information systems to conduct
+business. Cybersecurity threats targeting the financial-services industry
+continue to grow in scope, frequency and sophistication. A successful cyber
+incident could disrupt operations, lead to disclosure of confidential client
+information, and result in regulatory penalties.
+
+Geopolitical and Macroeconomic Risk
+The Firm operates globally and is exposed to geopolitical risk, including
+ongoing tensions involving Russia, the conflict in Ukraine, and competition
+between the United States and China. Sanctions, export controls, and counter-
+measures may affect our cross-border activities.
+
+Credit, Market and Liquidity Risk
+The Firm is exposed to credit losses on loans, market losses on trading
+positions, and liquidity risk if funding markets seize. We maintain stress
+testing, capital and liquidity buffers in line with regulatory expectations.
+
+Regulatory and Litigation Risk
+Banking is one of the most heavily regulated industries. New rules -- on
+capital, liquidity, consumer protection, climate disclosure, and AI use --
+may materially affect our profitability. We are subject to numerous legal
+and regulatory proceedings.
+
+Foreign Exchange
+Our results are reported in U.S. dollars; substantial revenues are earned in
+other currencies. Significant currency movements may affect our consolidated
+results.

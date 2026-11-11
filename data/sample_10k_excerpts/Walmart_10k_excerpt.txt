@@ -1,0 +1,34 @@
+WALMART INC. -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+Competition from E-commerce and Online Retail
+We face intense competition from large online retailers, including Amazon,
+as well as from category-specific online retailers, marketplaces, and
+direct-to-consumer brands. Our continued growth depends on our ability to
+operate a seamless omnichannel offering combining physical stores and
+e-commerce.
+
+Macroeconomic Pressure on Consumer Demand
+Many of our customers are sensitive to changes in food and fuel inflation,
+employment conditions, and government assistance programs. Persistent
+inflation can shift the mix of purchases from discretionary to staple
+categories and pressure our gross margin.
+
+Supply Chain and Inventory
+We source merchandise from thousands of suppliers worldwide. Disruption due
+to natural disasters, geopolitical tension, or transportation constraints
+could limit product availability. Inventory management at our scale is
+itself a source of risk: too much stock results in markdowns; too little
+results in lost sales.
+
+Wage Pressure and Labor Relations
+We employ over two million associates globally. Increases in minimum wages,
+health benefits, and ongoing unionization efforts may increase operating
+expenses.
+
+Cybersecurity
+We collect and process significant amounts of customer data through our
+stores, e-commerce platforms, and financial-services offerings.
+Cybersecurity threats and successful breaches could harm our reputation and
+result in regulatory penalties.

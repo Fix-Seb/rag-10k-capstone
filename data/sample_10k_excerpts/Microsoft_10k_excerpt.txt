@@ -1,0 +1,38 @@
+MICROSOFT CORPORATION -- Form 10-K (excerpt, public domain)
+
+Item 1A. Risk Factors
+
+Cybersecurity, Data Privacy, and Platform Abuses
+Threats to information technology security take a variety of forms. Threat
+actors -- including sophisticated nation-state and nation-state-supported
+actors -- continually engage in attacks against our networks, products and
+services. Successful breaches could result in disclosure of confidential
+information, regulatory fines, loss of customer trust, and harm to our
+reputation. We invest substantial resources in cybersecurity controls,
+detection, and response capabilities, but cannot guarantee these will be
+sufficient.
+
+Artificial Intelligence
+Issues related to AI may give rise to legal, regulatory, ethical, and
+reputational risks. We may face increased regulation of AI products,
+challenges to training data sourcing, claims of IP infringement, and rising
+operating costs for compute capacity. Our AI products may produce inaccurate
+outputs that can lead to harms to users and to the Company.
+
+Competition
+We face strong competition across each of our business segments, including
+from open-source software, large established companies, and a long tail of
+startups. Open-source AI models and cloud-native competitors are eroding
+historical moats. Our cloud business in particular faces well-funded
+hyperscale competitors.
+
+Foreign Operations
+We conduct significant business in many foreign jurisdictions. Foreign
+exchange rate fluctuations can negatively impact our revenues and earnings.
+Geopolitical tensions, including those between the United States and other
+nations, may impair our ability to operate freely in some markets.
+
+Share Repurchases and Dividend
+We return cash to shareholders through ongoing share buybacks and a
+quarterly dividend. The amount of buybacks varies with our cash position
+and strategic priorities.
